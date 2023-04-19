@@ -1,4 +1,4 @@
-![Cover](https://github.com/PierreStA/PierreStA/main/img/profile-pic.png)
+![Cover](https://github.com/PierreStA/PierreStA/blob/main/img/profile-pic.png)
 
 ### Hi there 👋
 
