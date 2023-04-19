@@ -1,3 +1,5 @@
+![Cover](https://github.com/PierreStA/PierreStA/main/img/profile-pic.png)
+
 ### Hi there 👋
 
 <!--
